@@ -8,7 +8,7 @@ My primary motivation for developing this application was to immerse myself in t
 
 Please see the software demonstration video where I provide a detailed walkthrough of the application's functionality and the codebase.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/hgh_WtBA9o8?si=zK7IwkrJ1gLKuApq)
 
 # Development Environment
 
